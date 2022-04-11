@@ -1,0 +1,3 @@
+include ':ethernetutilservice'
+include ':app'
+rootProject.name = "ViewPagerTest"
